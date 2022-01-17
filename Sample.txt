@@ -1,1 +1,12 @@
 This is a Sample text.
+
+Editing the file after adding this file to the remote online repository.
+After editing,we have to stage the file,commit it and then push the file to the online repository.
+The command sequences are:
+
+git add Sample.txt
+git commit -m "File updated"
+git push -u origin main
+
+After every edit or completion of tasks,we will have to repeat the above commands to push the updated version
+to the online repository so that other users/colleagues can access the updated fil(s).
